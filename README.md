@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun jain</h1>
-<h3 align="justify">I am currently doing Bachelor's of Engineering Degree in UIET, Panjab University, Chandigarh. I have made several projects in web development and App development and further exploring them. i love to explore and learn different Technologies</h3>
+<h3 align="justify">I am currently doing Bachelor's of Engineering Degree in UIET, Panjab University, Chandigarh. I have worked on several projects in web development and App development, also love to explore and learn different Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunjain3&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun jain" /> </p>
 
