@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [tarunjain.me](https://tarunjain.me/)
 
-- 💬 Ask me about **Web and Android development**
+- 💬 Ask me about **Web and App development**
 
 - 📫 How to reach me **tarunjain3820@gmail.com**
 
