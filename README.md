@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun jain</h1>
-<h3 align="justify">I'm an experienced software developer who constantly seeks out innovative solutions to everyday problems. I have more than 2 years of experience in front end development and Mobile app development. Professionally, I have experience with Vue.js and Flutter, and I love to explore and learn different technologies</h3>
+<h3 align="justify">I'm an experienced software developer who constantly seeks out innovative solutions to everyday problems. I have more than 3 years of experience in front end development and Mobile app development. Professionally, I have experience with Vue.js and Flutter, and I love to explore and learn different technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunjain3&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun jain" /> </p>
 
