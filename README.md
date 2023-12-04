@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun jain</h1>
 <h3 align="justify">Hello there! 👋 I'm Tarun Jain, a dedicated Frontend Developer with over 4 years of hands-on experience in crafting seamless and engaging user interfaces. My skills are centered around React and Vue.js, ensuring that each project I undertake is built with precision and attention to detail. I have a proven track record of delivering high-quality frontend solutions that add significant value.
-
+<br/><br/>
 Beyond my expertise in frontend technologies, I also bring a background in app development using Flutter, contributing to the success of over 4 live projects on the Play Store.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunjain3&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun jain" /> </p>
