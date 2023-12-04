@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tarun jain</h1>
-<h3 align="justify">I'm an experienced software developer who constantly seeks out innovative solutions to everyday problems. I have more than 3 years of experience in front end development and Mobile app development. Professionally, I have experience with Vue.js and Flutter, and I love to explore and learn different technologies</h3>
+<h3 align="justify">Hello there! 👋 I'm Tarun Jain, a dedicated Frontend Developer with over 4 years of hands-on experience in crafting seamless and engaging user interfaces. My skills are centered around React and Vue.js, ensuring that each project I undertake is built with precision and attention to detail. I have a proven track record of delivering high-quality frontend solutions that add significant value.
+
+Beyond my expertise in frontend technologies, I also bring a background in app development using Flutter, contributing to the success of over 4 live projects on the Play Store.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunjain3&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun jain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunjain3" alt="therealtechwiz" /></a> </p>
 
-- 🔭 I’m currently working in **[Edyst](http://edyst.com/)**
+- 🔭 I’m currently working in **[Appcore Labs]([http://edyst.com/](https://appcorelabs.com/))**
 
-- 👨‍💻 All of my projects are available at [tarunjain profile](https://tarunjain3.github.io/)
+- 👨‍💻 All of my projects are available at [tarun jain profile](https://tarunjain3.github.io/)
 
-- 💬 Ask me about **Web and App development**
+- 💬 Ask me about **Frontend development**
 
-- 📫 How to reach me **tarunjain3820@gmail.com**
+- 📫 How to reach me **tarunjain3820@gmail.com** || **[LinkedIn](https://www.linkedin.com/in/tarun38/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
