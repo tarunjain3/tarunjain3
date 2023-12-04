@@ -23,7 +23,7 @@ Beyond my expertise in frontend technologies, I also bring a background in app d
 <a href="https://leetcode.com/tarunjain03/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="tarunjain3820" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@tarunjain3820" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@tarunjain3820" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tarunjain3820" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="tarunjain3820" height="30" width="40" /></a>
-<a href="https://www.interviewbit.com/profile/tarunjain3820_5c5ed9229dcd" target="blank"><img align="center" src="https://media.glassdoor.com/sql/1605105/interviewbit-squarelogo-1492428049653.png" alt="tarunjain3820_5c5ed9229dcd" height="30" width="40" /></a>
+<a href="https://www.interviewbit.com/profile/tarunjain3820_5c5ed9229dcd" target="blank"><img align="center" src="https://media.glassdoor.com/sql/1605105/interviewbit-squarelogo-1492428049653.png" alt="tarunjain3820_5c5ed9229dcd" height="30" width="40" ></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
