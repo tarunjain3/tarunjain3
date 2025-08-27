@@ -5,7 +5,7 @@ Beyond my expertise in frontend technologies, I also bring a background in app d
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunjain3&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun jain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunjain3" alt="therealtechwiz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunjain3" alt="" /></a> </p>
 
 - 🔭 I’m currently working in **[Appcore Labs]([http://edyst.com/](https://appcorelabs.com/))**
 
